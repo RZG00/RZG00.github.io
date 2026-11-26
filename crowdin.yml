@@ -1,4 +1,0 @@
-preserve_hierarchy: 1
-files:
-  - source: /docs/_build/gettext/*.pot
-    translation: /docs/locale/%locale_with_underscore%/LC_MESSAGES/%file_name%.po
